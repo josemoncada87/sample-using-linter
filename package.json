@@ -1,0 +1,26 @@
+{
+  "name": "sample-using-linter",
+  "version": "1.0.0",
+  "description": "Usage:\r npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemoncada87/sample-using-linter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josemoncada87/sample-using-linter/issues"
+  },
+  "homepage": "https://github.com/josemoncada87/sample-using-linter#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.0.3"
+  }
+}
