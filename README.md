@@ -1,6 +1,7 @@
 # sample-using-linter
 
-``` bash
 Usage:
+
+``` bash
 npm install
 ```
